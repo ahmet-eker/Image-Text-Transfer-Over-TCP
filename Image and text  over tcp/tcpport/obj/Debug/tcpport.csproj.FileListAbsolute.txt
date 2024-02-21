@@ -1,0 +1,11 @@
+C:\Users\Hasan Kılıç\Desktop\pura_ahmet\tcpport\tcpport\bin\Debug\tcpport.exe.config
+C:\Users\Hasan Kılıç\Desktop\pura_ahmet\tcpport\tcpport\bin\Debug\tcpport.exe
+C:\Users\Hasan Kılıç\Desktop\pura_ahmet\tcpport\tcpport\bin\Debug\tcpport.pdb
+C:\Users\Hasan Kılıç\Desktop\pura_ahmet\tcpport\tcpport\obj\Debug\tcpport.csproj.AssemblyReference.cache
+C:\Users\Hasan Kılıç\Desktop\pura_ahmet\tcpport\tcpport\obj\Debug\tcpport.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Kılıç\Desktop\pura_ahmet\tcpport\tcpport\obj\Debug\tcpport.Form1.resources
+C:\Users\Hasan Kılıç\Desktop\pura_ahmet\tcpport\tcpport\obj\Debug\tcpport.Properties.Resources.resources
+C:\Users\Hasan Kılıç\Desktop\pura_ahmet\tcpport\tcpport\obj\Debug\tcpport.csproj.GenerateResource.cache
+C:\Users\Hasan Kılıç\Desktop\pura_ahmet\tcpport\tcpport\obj\Debug\tcpport.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Kılıç\Desktop\pura_ahmet\tcpport\tcpport\obj\Debug\tcpport.exe
+C:\Users\Hasan Kılıç\Desktop\pura_ahmet\tcpport\tcpport\obj\Debug\tcpport.pdb
